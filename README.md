@@ -48,109 +48,63 @@ FCC's resources
 https://medium.freecodecamp.com/
 http://forum.freecodecamp.com/
 
-skillcrush's blog
-https://skillcrush.com/blog/
+- [skillcrush's blog](https://skillcrush.com/blog/)
+- [reddit](https://www.reddit.com/r/learnprogramming/)
+- [gitter](https://gitter.im/)
 
-reddit
-https://www.reddit.com/r/learnprogramming/
-
-gitter
-https://gitter.im/
+https://www.facebook.com/groups/1594816820775537/
 
 coupons & deals
 http://webdev.willstern.com/so-you-wanna-learn-web-development/
 http://udemycoupon.discountsglobal.com/coupon-tag/100-discount-udemy-coupons/
 
-interview prep
-https://codelab.interviewbit.com/
-
-recommended courses by programmers
-http://teachyourselftocode.com/
+- [interview prep](https://codelab.interviewbit.com/)
+- [recommended courses by programmers](http://teachyourselftocode.com/)
 
 ### Computer Science
 
-open source uni
-https://github.com/open-source-society/computer-science
+- [open source uni](https://github.com/open-source-society/computer-science)
 
 harvard's CS50
 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 https://cs50.harvard.edu/
 
-MIT
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
-
-coursera
-https://www.coursera.org/specializations/computer-fundamentals
-
-Intensive Online Learning (bachelor level)
-http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
+- [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+- [coursera](https://www.coursera.org/specializations/computer-fundamentals)
+- [Intensive Online Learning (bachelor level)](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 
 coding the matrix
 http://codingthematrix.com/
 http://cs.brown.edu/courses/cs053/current/index.htm
 
-CS115/MAS115
-https://cs.wellesley.edu/~cs110/syllabus/
-
-saylor.org
-https://learn.saylor.org/course/index.php?categoryid=9
+- [CS115/MAS115](https://cs.wellesley.edu/~cs110/syllabus/)
+- [saylor.org](https://learn.saylor.org/course/index.php?categoryid=9)
 
 ### Mathematics
 
-Khan academy
-https://www.khanacademy.org/math
-
-coursera
-https://www.coursera.org/learn/mathematical-thinking
-
-youtube playlist
-https://www.youtube.com/playlist?list=PL_7F0HR2FSAo6UO-YTKpq_VHY4hDYn40y
-
-saylor.org
-https://learn.saylor.org/course/index.php?categoryid=13
+- [Khan academy](https://www.khanacademy.org/math)
+- [coursera](https://www.coursera.org/learn/mathematical-thinking)
+- [youtube playlist](https://www.youtube.com/playlist?list=PL_7F0HR2FSAo6UO-YTKpq_VHY4hDYn40y)
+- [saylor.org](https://learn.saylor.org/course/index.php?categoryid=13)
 
 ### Pathways
 
-khanacademy
-https://www.khanacademy.org/computing/computer-programming
-
-the odin project
-http://www.theodinproject.com/home
-
-freecodecamp
-https://www.freecodecamp.com/
-
-codecademy
-https://www.codecademy.com/
-
-codeschool
-https://www.codeschool.com/learn
-
-dash assembly
-https://dash.generalassemb.ly/
-
-rithm school
-https://www.rithmschool.com/courses
+- [khanacademy](https://www.khanacademy.org/computing/computer-programming)
+- [the odin project](http://www.theodinproject.com/home)
+- [freecodecamp](https://www.freecodecamp.com/)
+- [codecademy](https://www.codecademy.com/)
+- [codeschool](https://www.codeschool.com/learn)
+- [dash assembly](https://dash.generalassemb.ly/)
+- [rithm school](https://www.rithmschool.com/courses)
 
 ### Courses
 
-udacity
-https://www.udacity.com/
-
-microsoft virtual academy
-https://mva.microsoft.com/
-
-udemy
-https://www.udemy.com/
-
-international degree
-https://digitalskillsacademy.com
-
-levelup tuts
-https://leveluptutorials.com/
-
-sololearn
-https://www.sololearn.com/
+- [udacity](https://www.udacity.com/)
+- [microsoft virtual academy](https://mva.microsoft.com/)
+- [udemy](https://www.udemy.com/)
+- [international degree](https://digitalskillsacademy.com)
+- [levelup tuts](https://leveluptutorials.com/)
+- [sololearn](https://www.sololearn.com/)
 
 ### Languages
 
