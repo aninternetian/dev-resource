@@ -77,6 +77,8 @@ harvard's CS50:
 - [edx](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [website](https://cs50.harvard.edu/)
 
+Everything else:
+
 - [open source uni](https://github.com/open-source-society/computer-science)
 - [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 - [coursera](https://www.coursera.org/specializations/computer-fundamentals)
@@ -147,7 +149,7 @@ JavaScript:
 
 ### Frameworks
 
- - [Bootstrap](http://getbootstrap.com/)
+- [Bootstrap](http://getbootstrap.com/)
 - [React](https://facebook.github.io/react/tutorial/tutorial.html)
 
 Angular:
