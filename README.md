@@ -1,7 +1,12 @@
 # dev-resource
 
 <p>So i made a personal version of this on <a href="https://trello.com/b/jIpClSxs/study">trello</a> and decided to make an open source version if it helps.</p>
-<p>This is not meant to be an extensive resource, but rather a list of personal recommendations. If you have a recommendation, you are free to contribute</p>
+<p>**Please note that this is**
+- not an extensive resource
+- a list of personal recommendations
+- mostly web development related
+- open for contribution
+</p>
 
 - [Tools](#tools)
 - [Reference](#reference)
@@ -44,41 +49,43 @@
 
 ### Helpful
 
-FCC's resources
-https://medium.freecodecamp.com/
-http://forum.freecodecamp.com/
+FCC's resources:
+
+- [Medium](https://medium.freecodecamp.com/)
+- [forum](http://forum.freecodecamp.com/)
+
+coupons & deals:
+
+- [learncode academy](http://webdev.willstern.com/so-you-wanna-learn-web-development/)
+- [udemy](http://udemycoupon.discountsglobal.com/coupon-tag/100-discount-udemy-coupons/)
+
+Community related:
 
 - [skillcrush's blog](https://skillcrush.com/blog/)
 - [reddit](https://www.reddit.com/r/learnprogramming/)
 - [gitter](https://gitter.im/)
-
-https://www.facebook.com/groups/1594816820775537/
-
-coupons & deals
-http://webdev.willstern.com/so-you-wanna-learn-web-development/
-http://udemycoupon.discountsglobal.com/coupon-tag/100-discount-udemy-coupons/
-
+- [Newbie Coder Warehouse](https://www.facebook.com/groups/1594816820775537/)
 - [interview prep](https://codelab.interviewbit.com/)
 - [recommended courses by programmers](http://teachyourselftocode.com/)
 
 ### Computer Science
 
+harvard's CS50:
+
+- [edx](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [website](https://cs50.harvard.edu/)
+
 - [open source uni](https://github.com/open-source-society/computer-science)
-
-harvard's CS50
-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-https://cs50.harvard.edu/
-
 - [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 - [coursera](https://www.coursera.org/specializations/computer-fundamentals)
 - [Intensive Online Learning (bachelor level)](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
-
-coding the matrix
-http://codingthematrix.com/
-http://cs.brown.edu/courses/cs053/current/index.htm
-
 - [CS115/MAS115](https://cs.wellesley.edu/~cs110/syllabus/)
 - [saylor.org](https://learn.saylor.org/course/index.php?categoryid=9)
+
+coding the matrix:
+
+-[1](http://codingthematrix.com/)
+-[2](http://cs.brown.edu/courses/cs053/current/index.htm)
 
 ### Mathematics
 
@@ -108,47 +115,59 @@ http://cs.brown.edu/courses/cs053/current/index.htm
 
 ### Languages
 
-Python
-https://www.python.org/
-http://blog.agupieware.com/2014/01/50-python-resources-for-beginner-and.html
-http://blog.agupieware.com/2013/12/online-learning-teach-yourself-python.html
-https://automatetheboringstuff.com/
+Python:
 
-C#
-https://msdn.microsoft.com/en-us/library/aa288436(v=vs.71).aspx
-https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+- [main](https://www.python.org/)
+- [resources](http://blog.agupieware.com/2014/01/50-python-resources-for-beginner-and.html)
+- [teach yourself](http://blog.agupieware.com/2013/12/online-learning-teach-yourself-python.html)
+- [automate the boring stuff](https://automatetheboringstuff.com/)
 
-Ruby
-http://poignant.guide/
-http://iwanttolearnruby.com/
-https://pine.fm/LearnToProgram/chap_00.html
-https://www.ruby-lang.org/en/documentation/quickstart/
-http://ruby.bastardsbook.com/
+C#:
 
-JavaScript
-http://eloquentjavascript.net//
-http://jsforcats.com/
-https://github.com/getify/You-Dont-Know-JS
-https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.c41pbhmg8
-https://watchandcode.com/p/practical-javascript
+- [tutorials](https://msdn.microsoft.com/en-us/library/aa288436(v=vs.71).aspx)
+- [Microsoft virtual academy](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
+
+Ruby:
+
+- [poignant guide](http://poignant.guide/)
+- [i want to learnr](http://iwanttolearnruby.com/)
+- [LearnToProgram](https://pine.fm/LearnToProgram/chap_00.html)
+- [ruby in 20 mins](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [bastards book](http://ruby.bastardsbook.com/)
+
+JavaScript:
+
+- [for cats](http://jsforcats.com/)
+- [watch and code](https://watchandcode.com/p/practical-javascript)
+- [eloquent](http://eloquentjavascript.net/)
+- [You Dont Know](https://github.com/getify/You-Dont-Know-JS)
+- [FCC study guide](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.c41pbhmg8)
 
 ### Frameworks
-http://getbootstrap.com/
 
-Angular
-https://angularjs.org/
-https://www.codeschool.com/pages/angular-1-vs-2
+ - [Bootstrap](http://getbootstrap.com/)
+- [React](https://facebook.github.io/react/tutorial/tutorial.html)
 
-https://facebook.github.io/react/tutorial/tutorial.html
+Angular:
+
+- [main](https://angularjs.org/)
+- [codeschool](https://www.codeschool.com/pages/angular-1-vs-2)
 
 ### Wordpress
 
-http://www.alecaddd.com/wordpress-101-wordpress-beginner-developers/
-https://www.youtube.com/playlist?list=PLriKzYyLb28nUFbe0Y9d-19uVkOnhYxFE
-https://www.udemy.com/wordpress-academy-course/
-https://www.udemy.com/how-to-create-a-wordpress-website-2016-new-divi-theme-30/
+Alessandro's tutorial:
+
+- [guide](http://www.alecaddd.com/wordpress-101-wordpress-beginner-developers/)
+- [youtube](https://www.youtube.com/playlist?list=PLriKzYyLb28nUFbe0Y9d-19uVkOnhYxFE)
+
+Udemy:
+
+- [wordpress academy](https://www.udemy.com/wordpress-academy-course/)
+- [website and theme](https://www.udemy.com/how-to-create-a-wordpress-website-2016-new-divi-theme-30/)
 
 ### Not recommended
 
-https://learnpythonthehardway.org/book/nopython3.html
-https://eev.ee/blog/2016/11/23/a-rebuttal-for-python-3/
+Learn python the hard way:
+
+- [case against python 3](https://learnpythonthehardway.org/book/nopython3.html)
+- [reubttal](https://eev.ee/blog/2016/11/23/a-rebuttal-for-python-3/)
