@@ -20,7 +20,6 @@
 - [Languages](#languages)
 - [Frameworks](#frameworks)
 - [Wordpress](#wordpress)
-- [Not recommended](#not-recommended)
 
 ---
 ### Tools
@@ -32,6 +31,7 @@
 - [Github pages](https://pages.github.com/)
 - [State of JavaScript](http://stateofjs.com/)
 - [loren ipsum](http://www.lipsum.com/): Old school method for text placeholders
+- [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd)
 
 ### Reference
 
@@ -168,10 +168,3 @@ Udemy:
 
 - [wordpress academy](https://www.udemy.com/wordpress-academy-course/)
 - [website and theme](https://www.udemy.com/how-to-create-a-wordpress-website-2016-new-divi-theme-30/)
-
-### Not recommended
-
-Learn python the hard way:
-
-- [case against python 3](https://learnpythonthehardway.org/book/nopython3.html)
-- [reubttal](https://eev.ee/blog/2016/11/23/a-rebuttal-for-python-3/)
