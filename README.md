@@ -1,12 +1,12 @@
 # dev-resource
 
 <p>So i made a personal version of this on <a href="https://trello.com/b/jIpClSxs/study">trello</a> and decided to make an open source version if it helps.</p>
-<p>**Please note that this is**
+
+**Please note that this is:**
 - not an extensive resource
 - a list of personal recommendations
 - mostly web development related
 - open for contribution
-</p>
 
 - [Tools](#tools)
 - [Reference](#reference)
@@ -84,8 +84,8 @@ harvard's CS50:
 
 coding the matrix:
 
--[1](http://codingthematrix.com/)
--[2](http://cs.brown.edu/courses/cs053/current/index.htm)
+- [1](http://codingthematrix.com/)
+- [2](http://cs.brown.edu/courses/cs053/current/index.htm)
 
 ### Mathematics
 
